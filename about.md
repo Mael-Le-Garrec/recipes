@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Malaubid, un site de recettes.
+My personnal recipe website because I forget everything.
