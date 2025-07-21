@@ -9,25 +9,25 @@ author: hat|
 
 image: chocolate_cake.jpg
 
-prepTime: 20 minutes
-cookTime: 20 minutes
-totalTime: 40 minutes
+prepTime: 30 minutes
+cookTime: 40 minutes
+totalTime: 70 minutes
 
 yield: 1 Cake
 
 ingredients:
 - 200g dark chocolate
-- 100g sugar
-- 80g flour
+- 110g sugar
+- 100g flour
 - 5g baking powder
-- 3 eggs
+- 4 eggs
 - 1 zucchini
 
 directions:
 - Mix eggs, sugar and zucchini
 - Add flour and baking powder
 - Add melted chocolate
-- Bake at 180°C for 20 minutes
+- Bake at 180°C for 45 minutes
 
 ---
 

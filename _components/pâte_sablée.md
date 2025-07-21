@@ -25,7 +25,7 @@ ingredients:
 
 
 directions:
-- Mix the sugar, vanilla sugar, flour and baking powder.
+- Mix the sugar, vanilla sugar, flour and baking powder
 - Add the butter cut in small pieces and mix with hands
 - Add the egg and continue to mix until it's even
 - Let it cool in the fridge
